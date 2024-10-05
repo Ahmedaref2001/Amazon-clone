@@ -1,6 +1,6 @@
 # Amazon clone
 
-### Amazon-clone using (react js , firebase , bootstrap , react-bootstrap , animate.css , axios , react formik , yup , moment , react-icons , react-number-format , react-router-dom , react-toastify , universal-cookie ) and some techniques as lazy loading for pages and protected routes and more 
+### Amazon-clone using (react js , firebase , bootstrap , react-bootstrap , animate.css , axios , react formik , yup , moment , react-icons , react-number-format , react-router-dom , react-toastify , universal-cookie ) and some techniques as lazy loading for pages and protected routes and more and Responsive to all screens
 
 ## to watch live demo visit this link
 ## https://clone-986a7.web.app/
