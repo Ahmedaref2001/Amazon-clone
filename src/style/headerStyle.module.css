@@ -1,0 +1,51 @@
+*{
+    transition:0.2s
+}
+.link_secend_line,.link_first_line{
+    white-space: nowrap;
+    color:white;
+}
+.link_first_line{
+    font-size:12px;
+}
+.user_name{
+    text-overflow: ellipsis;
+    width: 120px;
+    overflow: hidden;     
+    white-space: nowrap;
+}
+.searchIcon{
+    font-size:23px;
+}
+.cartIcon{
+    color:white;
+    font-size:23px;
+}
+.cartItem{
+    color:white;
+}
+.navbar_toggler{
+    padding:5px
+}
+.navbar_toggler span{
+    width:1.2rem;
+    height:1.2rem;
+}
+.nav_link:hover ,.nav_link:hover .cartItem,.nav_link:hover .cartIcon{
+    color:#40a7e1;
+}
+@media (max-width:767px){
+    .navbar_collapse{
+        position: absolute;
+        width:100%;
+        border-top: 1px solid #6c9ba1;
+    }
+}
+@media (max-width:400px){
+.user_name{
+    width: 110px;
+}
+.cartIcon{
+    font-size:21px;
+}
+}

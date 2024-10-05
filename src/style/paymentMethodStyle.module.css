@@ -1,0 +1,8 @@
+.payment_box{
+    width:500px;
+}
+@media (max-width: 768px){
+    .payment_box{
+        width:100%;
+    }
+}

@@ -1,0 +1,11 @@
+/* .img_box{
+    height:500px
+} */
+.img_box img{
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.2));
+}
+.banner1_box{
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4));
+}.banner2_box{
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
+}

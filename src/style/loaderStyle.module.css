@@ -1,0 +1,24 @@
+.overlay{
+    background-color:rgba(0,0,0,0.3);
+    z-index:9999999;
+}
+.overlay .loader_box{
+    width:120px;
+    height:120px;
+    background-color:rgba(0,0,0,0.6);
+}
+.overlay .loader_box .loader{
+    width: 70px;
+    height: 70px;
+    border: 8px dotted;
+    border-radius: 50%;
+    border-color: #dbd4c69c #e7e3dab8 #f4f1edd4 #ffffffe8;
+    animation: span_loader 3.5s infinite linear;
+}
+
+@keyframes span_loader {
+    100% { 
+        transform: rotate(360deg);
+    }
+  }
+  

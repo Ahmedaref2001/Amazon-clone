@@ -1,0 +1,13 @@
+.btn{
+    transition: 0.2s;
+    transform-origin: center;
+}
+.btn:hover{
+    transform: scale(0.9);
+}
+.bullets li{
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+        background-color: #439cdc;
+    }

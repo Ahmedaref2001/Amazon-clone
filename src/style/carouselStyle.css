@@ -1,0 +1,11 @@
+.carousel-inner{
+    height:100%
+}
+
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    border-radius: 50%;
+    background-color: black;
+}
+.carousel-control-prev-icon:after{
+    color:red;
+}
